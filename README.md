@@ -1,5 +1,5 @@
 # Colors - a react fun app
-create color palate and pick fav colors
-
+Create color palate and pick fav colors
+Project created in bootcamp
 # live-demo
 https://aaemon-colors.herokuapp.com/
